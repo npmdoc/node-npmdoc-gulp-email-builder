@@ -1,9 +1,14 @@
-# api documentation for  [gulp-email-builder (v3.0.0)](https://github.com/Email-builder/gulp-email-builder)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-email-builder.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-email-builder) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-email-builder.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-email-builder)
+# npmdoc-gulp-email-builder
+
+#### api documentation for  [gulp-email-builder (v3.0.0)](https://github.com/Email-builder/gulp-email-builder)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-email-builder.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-email-builder) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-email-builder.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-email-builder)
+
 #### Uses Email Builder to inline css, send email tests, and send tests to Litmus
 
-[![NPM](https://nodei.co/npm/gulp-email-builder.png?downloads=true)](https://www.npmjs.com/package/gulp-email-builder)
+[![NPM](https://nodei.co/npm/gulp-email-builder.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-email-builder)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-email-builder/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-gulp-email-builder_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-email-builder/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-email-builder/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-email-builder/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-email-builder/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-email-builder/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-email-builder/build/screenCapture.npmPackageListing.svg)
 
@@ -22,12 +27,10 @@
     "contributors": [
         {
             "name": "Jeremy Peter",
-            "email": "jeremywpeter@gmail.com",
             "url": "https://github.com/jeremypeter"
         },
         {
             "name": "Steve Miller",
-            "email": "steven.jmiller@gmail.com",
             "url": "http://www.stevenjohnmiller.com.au"
         }
     ],
@@ -69,17 +72,14 @@
     "main": "lib/emailBuilder.js",
     "maintainers": [
         {
-            "name": "yargalot",
-            "email": "steven.jmiller@gmail.com"
+            "name": "yargalot"
         },
         {
-            "name": "jeremypeter",
-            "email": "jeremywpeter@gmail.com"
+            "name": "jeremypeter"
         }
     ],
     "name": "gulp-email-builder",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Email-builder/gulp-email-builder.git"
@@ -90,16 +90,6 @@
     "version": "3.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-email-builder](#apidoc.module.gulp-email-builder)
-
-
-
-# <a name="apidoc.module.gulp-email-builder"></a>[module gulp-email-builder](#apidoc.module.gulp-email-builder)
 
 
 
