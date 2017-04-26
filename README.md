@@ -1,6 +1,6 @@
 # npmdoc-gulp-email-builder
 
-#### api documentation for  [gulp-email-builder (v3.0.0)](https://github.com/Email-builder/gulp-email-builder)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-email-builder.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-email-builder) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-email-builder.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-email-builder)
+#### basic api documentation for  [gulp-email-builder (v3.0.0)](https://github.com/Email-builder/gulp-email-builder)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-email-builder.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-email-builder) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-email-builder.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-email-builder)
 
 #### Uses Email Builder to inline css, send email tests, and send tests to Litmus
 
@@ -87,7 +87,8 @@
     "scripts": {
         "test": "gulp test"
     },
-    "version": "3.0.0"
+    "version": "3.0.0",
+    "bin": {}
 }
 ```
 
